@@ -1,3 +1,20 @@
+/*
+Aim: 
+To understand and demonstrate the use of basic data types in C. 
+
+Algorithm: 
+• Start the program. 
+• Declare variables of different data types. 
+• Display values using printf(). 
+• Stop the program. 
+
+Sample output:
+Integer: 10
+Float: 5.50
+Character: A
+Double: 123.457
+    */
+
 #include<studio.h>
 int main(){
     int a=10;
@@ -11,3 +28,4 @@ int main(){
     return 0;
 
 }
+
