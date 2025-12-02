@@ -1,4 +1,4 @@
-
+#include<studio.h>
 int main(){
     int a=10;
     float b=5.5;
@@ -9,4 +9,5 @@ int main(){
     printf("character:%c\n",c);
     printf("double:%.3lf\n",d);
     return 0;
+
 }
