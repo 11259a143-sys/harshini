@@ -4,9 +4,11 @@ To understand and demonstrate the use of basic data types in C.
 
 Algorithm: 
 • Start the program. 
-• Declare variables of different data types. 
-• Display values using printf(). 
-• Stop the program. 
+• Declare variables a,b,c,d of different data types
+• Display values using printf() for the chosen data type.
+. assign the initial value to the variable during declaration.
+. perform operations.
+• Stop the program.
 
 Sample output:
 Integer: 10
